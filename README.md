@@ -1,8 +1,8 @@
 ## Visual Studio color scheme for Sublime Text and Texmate
 
-For those used to Visual Studio and switched to other editors, here is the low noise syntax highlighting scheme.
+For those used to Visual Studio and switched to the above editors, here is the low noise syntax highlighting scheme.
 
-![screen](screen.png)
+![screen](https://github.com/mihaifm/Visual-Studio.tmTheme/raw/master/screen.png)
 
 ### Installation
 
@@ -12,4 +12,4 @@ Drop `Visual Studio.tmTheme` file in: `\Data\Packages\Color Scheme - Default`
 
 #### Textmate
 
-Drop `Visual Studio.tmTheme` file in: ~/Library/Application Suport/TextMate/Themes/
+Drop `Visual Studio.tmTheme` file in: `~/Library/Application Suport/TextMate/Themes/`
