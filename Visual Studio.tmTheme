@@ -25,6 +25,33 @@
 				<string>#9DA7C3</string>
 			</dict>
 		</dict>
+		<!-- Diff Colors: https://gist.github.com/erictrinh/3870269  -->
+		<dict>
+			<key>name</key>
+			<string>Diff insertion</string>
+			<key>scope</key>
+			<string>markup.inserted.diff, meta.diff.header.to-file</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eefff8</string>
+				<key>background</key>
+				<string>#2f8963</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff deletion</string>
+			<key>scope</key>
+			<string>markup.deleted.diff, meta.diff.header.from-file</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fff3ee</string>
+				<key>background</key>
+				<string>#c86a44</string>
+			</dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
