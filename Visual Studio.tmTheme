@@ -364,9 +364,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF</string>
-				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#E1A09F</string>
 			</dict>
 		</dict>
 		<dict>
