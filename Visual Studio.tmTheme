@@ -504,6 +504,17 @@
 				<string>#B90690</string>
 			</dict>
 		</dict>
+      <dict>
+         <key>name</key>
+         <string>Punctuation</string>
+         <key>scope</key>
+         <string>punctuation</string>
+         <key>settings</key>
+         <dict>
+            <key>foreground</key>
+            <string>#0000FF</string>
+         </dict>
+      </dict>
 	</array>
 	<key>uuid</key>
 	<string>ADD7FDE7-C6BE-454B-A71A-7951ED54FB04</string>
