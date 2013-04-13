@@ -130,6 +130,17 @@
 				<string>#0000FF</string>
 			</dict>
 		</dict>
+      <dict>
+         <key>name</key>
+         <string>Class (definition)</string>
+         <key>scope</key>
+         <string>entity.name</string>
+         <key>settings</key>
+         <dict>
+            <key>foreground</key>
+            <string>#2B91AF</string>
+         </dict>
+      </dict>
 		<dict>
 			<key>name</key>
 			<string>Boolean</string>
