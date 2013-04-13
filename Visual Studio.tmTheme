@@ -114,7 +114,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#2B91AF</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,20 +127,9 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0000FF</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
-      <dict>
-         <key>name</key>
-         <string>Class (definition)</string>
-         <key>scope</key>
-         <string>entity.name</string>
-         <key>settings</key>
-         <dict>
-            <key>foreground</key>
-            <string>#2B91AF</string>
-         </dict>
-      </dict>
 		<dict>
 			<key>name</key>
 			<string>Boolean</string>
@@ -389,7 +378,18 @@
 				<string>#FFD0D0</string>
 			</dict>
 		</dict>
-      <dict>
+		<dict>
+			<key>name</key>
+			<string>Embedded source</string>
+			<key>scope</key>
+			<string>text source, string.unquoted</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#427FF530</string>
+			</dict>
+		</dict>
+		<dict>
 			<key>name</key>
 			<string>Markup XML declaration</string>
 			<key>scope</key>
@@ -515,17 +515,6 @@
 				<string>#B90690</string>
 			</dict>
 		</dict>
-      <dict>
-         <key>name</key>
-         <string>Punctuation</string>
-         <key>scope</key>
-         <string>punctuation</string>
-         <key>settings</key>
-         <dict>
-            <key>foreground</key>
-            <string>#0000FF</string>
-         </dict>
-      </dict>
 	</array>
 	<key>uuid</key>
 	<string>ADD7FDE7-C6BE-454B-A71A-7951ED54FB04</string>
