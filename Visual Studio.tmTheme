@@ -378,18 +378,6 @@
 				<string>#FFD0D0</string>
 			</dict>
 		</dict>
-<!-- 		<dict>
-			<key>name</key>
-			<string>Embedded source</string>
-			<key>scope</key>
-			<string>text source, string.unquoted</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#FFFFFF</string>
-			</dict>
-		</dict>
- -->
       <dict>
 			<key>name</key>
 			<string>Markup XML declaration</string>
