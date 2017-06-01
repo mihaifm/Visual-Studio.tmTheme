@@ -12,9 +12,9 @@ Drop `Visual Studio.tmTheme` file in: `\Data\Packages\Color Scheme - Default`
 
 #### Sublime Text 3
 
-From the menu: `Preferences -> Browse Packages`
-Inside the folder that pops up, create a subfolder: `Colorsublime-Themes` 
-Drop `Visual Studio.tmTheme` in there
+From the menu: `Preferences -> Browse Packages`    
+Inside the folder that pops up, create a subfolder: `Colorsublime-Themes`     
+Drop `Visual Studio.tmTheme` in there    
 
 #### Textmate
 
